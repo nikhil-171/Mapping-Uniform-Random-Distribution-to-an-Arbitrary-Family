@@ -1,4 +1,4 @@
-%This project takes a random distribution on n number of point and maps the point the a laplace random variable distribution.
+%This project takes a random distribution of n number of points and maps the points to the laplace random variable distribution.
 %Being able to map random data points to a specific distribution will allow you to further analyze data for patterns. 
 %Specifially, laplace distribution has a advantage of a normal distirbution since it had moderate tails on the plot resulting in better analysis.  
 %In order to map to laplace random variable I had used the inverse transform method to get the function for the laplace distibution (y_exp andy_exp1). 
