@@ -2,8 +2,7 @@
 %Being able to map random data points to a specific distribution will allow you to further analyze data for patterns. 
 %Specifially, laplace distribution has a advantage of a normal distirbution since it had moderate tails on the plot resulting in better analysis.  
 %In order to map to laplace random variable I had used the inverse transform method to get the function for the laplace distibution (y_exp andy_exp1). 
-%
-
+%Laplace distribution anaylsis is largely used in stock returns and can help investors make decision using prior return data.  
 clear all
 n = input('Enter number of points >');         
 varX=2/9;                                 %arbitrary value for the variance
